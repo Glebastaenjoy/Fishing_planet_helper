@@ -1,3 +1,4 @@
+#DavydovGleb
 from configs import global_configs
 from PIL import Image
 
